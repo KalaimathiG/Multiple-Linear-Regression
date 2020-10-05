@@ -10,8 +10,14 @@ packages used Numpy,pandas,sklearn,seaborn
 # EDA
 
 I have visualised the relationship between the independent variables and The dependent variables.Below are the highlights.
-![](/FI.png)       ![](/FVsSp)
-![Test Image 3](/AVsSP.png)
+
+![](/FI.png)       
+
+![](/FVsSp)
+
+![](/AVsSP.png)
+
+![](TVsSP)
 
 # Model Building
  LinearRegression model from sklean has been used to build the model
