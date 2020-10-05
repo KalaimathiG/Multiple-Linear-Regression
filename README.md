@@ -13,7 +13,7 @@ I have visualised the relationship between the independent variables and The dep
 
 ![](/FI.png)       
 
-![](/FVsSp.png)
+![](/FVsSP.png)
 
 ![](/AVsSP.png)
 
