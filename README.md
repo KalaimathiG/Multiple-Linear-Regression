@@ -13,11 +13,11 @@ I have visualised the relationship between the independent variables and The dep
 
 ![](/FI.png)       
 
-![](/FVsSp)
+![](/FVsSp.png)
 
 ![](/AVsSP.png)
 
-![](TVsSP)
+![](TVsSP.png)
 
 # Model Building
  LinearRegression model from sklean has been used to build the model
